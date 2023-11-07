@@ -181,8 +181,6 @@ extension LBXScanViewController: UIImagePickerControllerDelegate, UINavigationCo
   }
   
 }
-    
-}
 
 //MARK: - 私有方法
 private extension LBXScanViewController {
